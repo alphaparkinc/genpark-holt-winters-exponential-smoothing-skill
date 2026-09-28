@@ -1,0 +1,6 @@
+name: genpark-holt-winters-exponential-smoothing-skill
+version: 1.0.0
+description: Triple exponential smoothing Holt-Winters additive level, trend, and seasonal forecasting model
+command: python
+args:
+  - mcp_server.py
