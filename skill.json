@@ -1,0 +1,20 @@
+{
+  "name": "genpark-holt-winters-exponential-smoothing-skill",
+  "version": "1.0.0",
+  "description": "Triple exponential smoothing Holt-Winters additive level, trend, and seasonal forecasting model",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "holt-winters",
+    "exponential-smoothing",
+    "time-series",
+    "forecasting",
+    "seasonality",
+    "trend-analysis",
+    "python-standard-library",
+    "agent-skills",
+    "predictive-modeling",
+    "statistical-forecasting"
+  ]
+}
